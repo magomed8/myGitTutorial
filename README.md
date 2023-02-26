@@ -1,6 +1,3 @@
-# myGitTutorial
-this is my description
 
+some description in here
 
-
-This is a great extension for Chrome Browser
